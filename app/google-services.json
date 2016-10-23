@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1684278543",
+    "firebase_url": "https://basic-fb-login.firebaseio.com",
+    "project_id": "basic-fb-login",
+    "storage_bucket": "basic-fb-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1684278543:android:4f509763a349a071",
+        "android_client_info": {
+          "package_name": "fb.example.vipul.basicfblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1684278543-2kl7h6dsraonlaqos9ejetodpdmde135.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fb.example.vipul.basicfblogin",
+            "certificate_hash": "B1533D894AE9701CD54CB7713CF7CA8721ADE1ED"
+          }
+        },
+        {
+          "client_id": "1684278543-fpa2gcf1ros80vcnjcvr9pr5jtof66lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNDsKQ3EGBFv2Trl9JeimTGomUR5L1eE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1684278543-fpa2gcf1ros80vcnjcvr9pr5jtof66lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
